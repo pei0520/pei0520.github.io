@@ -19,12 +19,12 @@ body{
 }
 
 #pic{
-	width: 180px;
-	height: 180px;
-	margin: auto;
+	width:180px;
+	height:180px;
+	margin:auto;
 	margin-top: 50px;
-	background-color: #8AD1FF;
-	background-image: url(images/head5.png);
+	background-color:darkgoldenrod;
+	background-image: url("images/head6.png");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: contain;
